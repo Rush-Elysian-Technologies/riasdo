@@ -1,0 +1,186 @@
+
+.service{
+    text-align: center;
+    padding: 4rem 0;
+}
+.service>h3{
+    font-family:Tangerine;
+    font-weight: 700;
+    font-size: 64px;
+}
+.service>p{
+    width: 495px;
+    height: 85px;
+    font-family: inter;
+    font-weight: 200;
+    font-size: 14px;
+    margin: auto;
+}
+.button{
+    width: 123px;
+    height: 58px;
+    background-color: #6E6E61;
+    border-radius: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+.button>.button1{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.PortfolioExplore{
+    width: 1020px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin:80px auto;
+}
+.EPortfolio{
+    width: 320px;
+    text-align: center;
+    padding: 20px 0;
+}
+.EPortfolio>h4{
+    font-family: inter;
+    font-size: 32px;
+    font-weight: 300;
+    margin-right: 50px;
+}
+.EPortfolio>h3{
+    font-family:Tangerine;
+    font-weight: 700;
+    font-size: 64px;
+}
+.EPortfolio>p{
+    text-align: left;
+    font-size: 14px;
+    font-family: inter;
+    font-weight: 200;
+    margin-top: 50px;
+}
+.CTestimonials{
+    width: 100%;
+    height: 680px;
+    background-image: url(../../images/pexels-vie-studio-4439457.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.HTestimonials1{
+    width: 1020px;
+    height: auto;
+    margin: auto;
+}
+.HTestimonials1>p{
+    opacity: 100%;
+    font-size: 32px;
+    font-weight: 300;
+}
+.HTestimonials1>p>b{
+    font-family:Tangerine;
+    font-weight: 700;
+    font-size: 64px;
+}
+.HTestimonials1>h3{
+    font-family: Tangerine;
+    font-size: 40px;
+    font-weight: 400;
+    opacity: 100%;
+    text-align: right;
+}
+.FounderDire{
+    width: 1020px;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 80px;
+}
+.FounderDire>div{
+    width: 490px;
+    height: 651px;
+}
+.founderMatter>h4{
+    font-family: inter;
+    font-size: 32px;
+    font-weight: 300;
+}
+.founderMatter>h4>b{
+    font-family: Tangerine;
+    font-size: 60px;
+    font-weight: 400;
+}
+.founderMatter>p{
+    font-size: 14px;
+    opacity: 70%;
+}
+.founderMatter>h2{
+    font-family: Tangerine;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: right;
+}
+.founderMatter>h3{
+    font-family: inter;
+    font-size: 24px;
+    font-weight: 300;
+    text-align: right; 
+}
+.founderMatter>hr{
+    border: 2px solid black;
+    opacity: 100%;
+}
+.TeamPhotos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.TeamPhotos>div{
+  width: 240px;
+  height: 100%;
+}
+.TeamSet1{
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.TeamSet2{
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.align2{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.photo{
+    width: 240px;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.photo1{
+    background-image: url(../../images/pexels-fauxels-3183148.jpg);
+}
+.photo2{
+    background-image: url(../../images/pexels-edmond-dantès-8553867.jpg);
+}
+.photo3{
+    background-image: url(../../images/pexels-fauxels-3184396.jpg);
+}
+.photo4{
+    background-image: url(../../images/pexels-rfstudio-3810792.jpg);
+}

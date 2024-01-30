@@ -1,0 +1,70 @@
+#app {
+    height: 100%;
+  }
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .background{
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family:Tangerine ;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.background1{
+    background-image: url(../images/pexels-ayşenur-8926471.jpg);
+}
+.background2{
+    background-image: url(../images/pexels-igor-link-933118.jpg);
+}
+.background3{
+    background-image: url(../images/pexels-photo-169198.jpeg);
+}
+.background4{
+    background-image: url(../images/pexels-trung-nguyen-1630855.jpg);
+}
+.background5{
+    background-image: url(../images/pexels-asad-photo-maldives-169185.jpg);
+}
+.background6{
+    background-image: url(../images/pexels-asad-photo-maldives-169211.jpg);
+}
+.home-para{
+    width: 420px;
+    height: 200px;
+    background-color: #ffffff;
+    padding: 50px;
+    text-align: center;
+    margin: 50px;
+}
+.home-para>p{
+    font-size: 32px;
+    font-weight: 700px;
+}
+.home-para>p>b{
+    font-size: 32px;
+    font-family:Syncopate;
+}
+  
