@@ -1,0 +1,31 @@
+.backgroundImg{
+   width: 100%;
+   height: 600px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.aboutHome{
+    background-image: url(../../images/pexels-emma-bauso-3585798.jpg);
+}
+.aboutbody{
+    max-width: 1020px;
+    margin: 60px auto;
+}
+.aboutbody>h2{
+    font-family: Tangerine;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+}
+.aboutbody>p{
+    font: size 14px; ;
+    font-family:inter ;
+    text-align: left;
+}
+.aboutbody>h5{
+    font-size:20px ;
+    font-family:inter ;
+    font-weight: 400px;
+    text-align: left;
+}

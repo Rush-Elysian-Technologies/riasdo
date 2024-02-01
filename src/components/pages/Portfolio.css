@@ -1,0 +1,65 @@
+.portfolioHome{
+    background-image: url(../../images/pexels-photo-169198.jpeg);
+}
+.portfoliobody{
+    text-align: center;
+}
+.portfoliobody>p{
+    font-family:Tangerine ;
+    font-size: 64px;
+    font-weight: bold;
+}
+.portfoliochild1{
+    width: 321px;
+    height: 400px;
+    background-image: url(../../images/pexels-irina-iriser-871854.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.portfoliochild2{
+    width: 320px;
+    height: 200px;
+    background-image: url(../../images/pexels-dimitri-kuliuk-3350335.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.portfoliobody1{
+    max-width: 1020px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 15px;
+    margin: 20px auto;
+}
+.portfoliobody1>div{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.portfoliochild21>hr{
+    width: 240px;
+    border: 3px solid white;
+    opacity: 100%;
+
+}
+.portfoliochild21>h3{
+    font-family:Tangerine ;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+.portfoliochild22{
+    text-align: right;
+    font-size: 20px;
+    font-family: inter;
+    font-weight: bold;
+    color: white;
+    margin: 8px;
+}

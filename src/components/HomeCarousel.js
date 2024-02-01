@@ -8,7 +8,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
 import './HomeCarousel.css';
-
+import Header from './Header';
 // import required modules
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 
@@ -48,7 +48,7 @@ export default function HomeCarousel() {
         <SwiperSlide>
             <div className='background background6'></div>
         </SwiperSlide>
-        
+        <Header/> 
       </Swiper>
     </div>
   );

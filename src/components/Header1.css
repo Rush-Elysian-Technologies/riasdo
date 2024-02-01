@@ -1,6 +1,12 @@
-.navbar3{
-  display: flex;
-  justify-content: center;
+/* nav{
+    margin-top: 150px;
+} */
+.navbar1{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    position: static;
 }
   .logo{
     width: 254px;
@@ -10,8 +16,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 11px;
+    font-size: 50px;  
   }
-  .top-nav {
+  .top-nav1 {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -22,7 +29,7 @@
     width: 1020px;
     height: 100px;
     font-family:Tangerine ;
-    margin-top: 40px;
+    margin: auto;
   }
   
   .menu {
@@ -31,7 +38,7 @@
     list-style-type: none;
     margin: 0;
     padding: 5px;
-    gap: 5px;
+    gap: 15pxpx;
   
   }
   .active{

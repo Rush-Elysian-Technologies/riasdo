@@ -5,10 +5,12 @@ import HomeCarousel from '../HomeCarousel';
 import { Link } from 'react-router-dom';
 import PortfolioCarousel from '../PortfolioCarousel';
 import CusTestimonials from '../CusTestimonials';
+import Header1 from '../Header1';
 
 function Home() {
   return (
     <>
+    <Header1/>
     <HomeCarousel/>
     <div className='service'>
       <h3>Our Services</h3>

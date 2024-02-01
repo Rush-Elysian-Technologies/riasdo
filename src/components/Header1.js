@@ -1,11 +1,11 @@
 import React from 'react';
-import './Header.css';
+import './Header1.css';
 
-function Header() {
+function Header1() {
   return (
     <>
-    <div class='navbar3'>
-   <nav class="top-nav">
+    <div class='navbar1'>
+   <nav class="top-nav1">
     <a class="active" href="/">
     <div class="logo">
     </div>
@@ -15,7 +15,7 @@ function Header() {
     <div class='menu-button'></div>
   </label>
     <ul class="menu">
-    <li><a class="nav-link" href="/">Home</a></li> 
+      <li><a class="nav-link" href="/">Home</a></li> 
       <li><a class="nav-link" href="/aboutUs">About Us</a></li>
       <li><a class="nav-link" href="/services">Services</a></li>
       <li><a class="nav-link" href="/portfolio">Portfolio</a></li> 
@@ -29,4 +29,4 @@ function Header() {
   );
 }
 
-export default Header
+export default Header1

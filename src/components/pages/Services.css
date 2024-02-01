@@ -1,0 +1,72 @@
+.serviceHome{
+    background-image: url(../../images/pexels-trung-nguyen-1630855.jpg);
+}
+.servicebody1{
+   max-width: 1020px;
+   height: auto;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   margin: 80px auto;
+}
+.servicebody1>h2{
+    font-family: Tangerine;
+    font-size: 64px;
+    font-weight: bold;
+}
+.servicebody1>p{
+    max-width: 640px;
+    height: auto;
+    font-size: 14;
+    font-family: inter;
+    text-align: left;
+
+}
+.servicebody2{
+    margin: 80px auto;
+    width: 1020px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.servicechild{
+    width: 320px;
+    height: 400px;
+    background-image: url(../../images/pexels-agung-pandit-wiguna-2788488.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end
+}
+.servicechild>hr{
+    width: 240px;
+    border: 3px solid white;
+    opacity: 100%;
+
+}
+.servicechild>h3{
+    font-family:Tangerine ;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+.sericechild1{
+    width: 286px;
+    height: 165px;
+    background-color:#E0DFDF ;
+    margin: 8px;
+    opacity: 80%;
+}
+.sericechild1>p{
+    font-family: inter;
+    font-size: 20px;
+}
+.sericechild1>a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+}
