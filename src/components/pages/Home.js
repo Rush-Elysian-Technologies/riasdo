@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 import PortfolioCarousel from '../PortfolioCarousel';
 import CusTestimonials from '../CusTestimonials';
 import Header1 from '../Header1';
+import Marquee1 from '../Marquee';
 
 function Home() {
   return (
@@ -17,9 +18,11 @@ function Home() {
       <p>Our services are as distinctive as your vision. We meticulously tailor every aspect to align with your specific requirements, whether it's comprehensive wedding planning and design or cozy gatherings and parties. Your event, precisely as you envision it.</p>
     </div>
     <ServiceCarousel/>
+    
     <div class="button">
        <Link className="button1" to="#">View more</Link>
     </div>
+    <Marquee1/>
     <div className='PortfolioExplore'>
     <PortfolioCarousel/>
     <div className='EPortfolio'>

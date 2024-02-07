@@ -1,0 +1,10 @@
+.marquee{
+        font-family:Tangerine;
+        font-weight: 700;
+        font-size: 32px;
+        background-color: #B4245D;
+        margin: 40px 0;
+}
+.spacing-marquee{
+    margin: 0 80px;
+}
