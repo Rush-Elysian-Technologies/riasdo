@@ -34,21 +34,40 @@ export default function HomeCarousel() {
           </div>
         </SwiperSlide>
         <SwiperSlide>
-            <div className='background background2'></div>
+            <div className='background background2'>
+            <div class='home-para'>
+          <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
+            </div>
         </SwiperSlide>
         <SwiperSlide>
-            <div className='background background3'></div>
+            <div className='background background3'>
+            <div class='home-para'>
+          <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
+            </div>
         </SwiperSlide>
         <SwiperSlide>
-            <div className='background background4'></div>
+            <div className='background background4'>
+            <div class='home-para'>
+          <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
+            </div>
         </SwiperSlide>
         <SwiperSlide>
-            <div className='background background5'></div>
+            <div className='background background5'>
+            <div class='home-para'>
+          <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
+            </div>
         </SwiperSlide>
         <SwiperSlide>
-            <div className='background background6'></div>
+            <div className='background background6'>
+            <div class='home-para'>
+          <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
+            </div>
         </SwiperSlide>
-        <Header/> 
       </Swiper>
     </div>
   );

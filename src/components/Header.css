@@ -25,7 +25,7 @@
     margin-top: 40px;
   }
   
-  .menu {
+  .menu1 {
     display: flex;
     flex-direction: row;
     list-style-type: none;
@@ -38,7 +38,7 @@
     text-decoration: none;
     color: black;
   }
-  .menu > li >a {
+  .menu1 > li >a {
     margin: 0 1rem;
     overflow: hidden;
     color: black;
@@ -46,7 +46,7 @@
     font-size: 30px;
     word-spacing: 1px;
   }
-  .menu .button a{
+  .menu1 .button a{
      padding: 10px;
      border-radius: 10px;
      color: black;
@@ -69,6 +69,25 @@
   .nav-link{
     position: relative;
   }
+  .nav-link::before{
+    content: '';
+    transition: transform 0.5s ease-in-out;
+    transform: scaleX(0);
+    transform-origin: right;
+    height: 2px;
+     width: 100%;
+     background-color: #B4245D;
+     position: absolute; 
+     bottom: 0;
+     left: 0;
+     right: 0;
+  }
+  .nav-link:hover::before,
+.nav-link:focus::before{ 
+  transform: scaleX(1); 
+  transform-origin: left;
+}
+
   .menu-button,
   .menu-button::before,
   .menu-button::after {
@@ -109,10 +128,10 @@
     .menu-button-container {
       display: flex;
     }
-    .menu {
+    .menu1 {
       position: absolute;
       top: 0;
-      margin-top: 65px;
+      margin-top: 135px;
       left: 0;
       flex-direction: column;
       width: 100%;
@@ -121,14 +140,14 @@
       gap: 0;
     }
     
-    #menu-toggle ~ .menu li {
+    #menu-toggle ~ .menu1 li {
       height: 0;
       margin: 0;
       padding: 0;
       border: 0;
       transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
     }
-    #menu-toggle:checked ~ .menu li {
+    #menu-toggle:checked ~ .menu1 li {
       
       height: 4em;
       padding: 0.5em ;
@@ -138,14 +157,14 @@
       align-items: center;
       transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
     }
-    .menu .button a{
+    .menu1 .button a{
       padding: 0;
       border-radius: 0;
       color:black ;
       background-color:white;
    
    }
-    .menu > li {
+    .menu1 > li {
       display: flex;
       justify-content: center;
       margin: 0;
@@ -155,7 +174,7 @@
       text-decoration: none;
       
     }
-    .menu li a{
+    .menu1 li a{
       color:black;
     }
     .topings{

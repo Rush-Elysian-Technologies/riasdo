@@ -3,6 +3,7 @@ import Footer from './components/Footer';
 // import 'bootstrap/dist/css/bootstrap.css';
 import {Routes, Route} from 'react-router-dom';
 import './App.css';
+import AnimCursor from './components/AnimCursor';
 // Pages
 import Home from './components/pages/Home';
 import AboutUs from './components/pages/AboutUs';
@@ -15,6 +16,7 @@ import ContactUs from './components/pages/ContactUs';
 function App() {
   return (
     <>
+    
     <Routes>
        <Route path='/' element={<Home />} />
        <Route path='/aboutUs' element={<AboutUs />} />

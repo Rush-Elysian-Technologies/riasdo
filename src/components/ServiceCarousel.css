@@ -49,6 +49,9 @@
     font-weight: 700;
     color: white;
   }
+  .img:hover{
+    opacity: 40%;
+  }
   .img>hr{
     width: 240px;
     border: 3px solid white;

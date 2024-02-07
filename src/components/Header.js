@@ -14,7 +14,7 @@ function Header() {
   <label class='menu-button-container' for="menu-toggle">
     <div class='menu-button'></div>
   </label>
-    <ul class="menu">
+    <ul class="menu1">
     <li><a class="nav-link" href="/">Home</a></li> 
       <li><a class="nav-link" href="/aboutUs">About Us</a></li>
       <li><a class="nav-link" href="/services">Services</a></li>

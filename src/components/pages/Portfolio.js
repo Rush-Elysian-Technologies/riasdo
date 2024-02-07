@@ -1,6 +1,7 @@
 import React from 'react'
 import './Portfolio.css';
 import Header from '../Header';
+import { Link } from 'react-router-dom';
 
 function Portfolio() {
   return (
@@ -146,6 +147,9 @@ function Portfolio() {
           </div>
         </div>
         </div>
+      </div>
+      <div class="button">
+       <Link className="button1" to="#">View more</Link>
       </div>
     </div>
   )
