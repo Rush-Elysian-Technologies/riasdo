@@ -29,26 +29,34 @@ export default function PortfolioCarousel() {
       >
         <SwiperSlide>
           <div className='img img4'>
+            <div>
             <p>Asha & Ragha</p>
-            <hr></hr>
+            <hr className='underline'></hr>
+            </div>
           </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='img img5'>
+          <div>
           <p>Priya & Srinu</p>
-          <hr></hr>
+          <hr className='underline'></hr>
+          </div>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='img img4'>
+          <div>
           <p>Asha & Ragha</p>
-          <hr></hr>
+          <hr className='underline'></hr>
+          </div>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='img img5'>
+          <div>
         <p>Priya & Srinu</p>
-            <hr></hr>
+        <hr className='underline'></hr>
+            </div>
         </div>
         </SwiperSlide>
       </Swiper>

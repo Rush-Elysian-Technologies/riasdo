@@ -29,38 +29,50 @@ export default function ServiceCarousel() {
       >
         <SwiperSlide>
           <div className='img img1'>
+            <div>
             <p>Prospect Venues</p>
-            <hr></hr>
+            <hr className='underline'></hr>
+            </div>
           </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='img img2'>
+          <div>
           <p>Menu Planning</p>
-          <hr></hr>
+          <hr className='underline'></hr>
+          </div>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='img img3'>
+          <div>
           <p>Styling & grooming</p>
-          <hr></hr>
+          <hr className='underline'></hr>
+          </div>
         </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='img img1'>
+          <div>
         <p>Prospect Venues</p>
-            <hr></hr>
+        <hr className='underline'></hr>
+        </div>
         </div>
         </SwiperSlide>
         <SwiperSlide>
           <div className='img img2'>
+            <div>
           <p>Prospect Venues</p>
-            <hr></hr>
+          <hr className='underline'></hr>
+          </div>
           </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='img img3'>
+          <div>
         <p>Prospect Venues</p>
-            <hr></hr>
+        <hr className='underline'></hr>
+        </div>
         </div>
         </SwiperSlide>
       </Swiper>
