@@ -15,6 +15,7 @@ function Portfolio() {
       <div className='portfoliobody1'>
       <div>
         <div className='portfoliochild1'>
+          <div>
           <div className='portfoliochild21'>
              <h3>Asha & Ragha</h3>
              <hr></hr>
@@ -23,8 +24,10 @@ function Portfolio() {
             <p>17.05.2009</p>
             <p>Daspalla,Vizag</p>
           </div>
+          </div>
         </div>
         <div className='portfoliochild2'>
+          <div>
         <div className='portfoliochild21'>
              <h3>Priya & Srinu </h3>
              <hr></hr>
@@ -32,11 +35,13 @@ function Portfolio() {
           <div className='portfoliochild22'>
             <p>07.08.2016</p>
             <p>NTR gardens,Vizag</p>
+          </div>
           </div>
         </div>
         </div>
         <div>
         <div className='portfoliochild2'>
+          <div>
         <div className='portfoliochild21'>
              <h3>Priya & Srinu </h3>
              <hr></hr>
@@ -45,8 +50,10 @@ function Portfolio() {
             <p>07.08.2016</p>
             <p>NTR gardens,Vizag</p>
           </div>
+          </div>
         </div>
         <div className='portfoliochild1'>
+          <div>
           <div className='portfoliochild21'>
              <h3>Asha & Ragha</h3>
              <hr></hr>
@@ -54,11 +61,13 @@ function Portfolio() {
           <div className='portfoliochild22'>
             <p>17.05.2009</p>
             <p>Daspalla,Vizag</p>
+          </div>
           </div>
         </div>
         </div>
         <div>
         <div className='portfoliochild1'>
+          <div>
           <div className='portfoliochild21'>
              <h3>Asha & Ragha</h3>
              <hr></hr>
@@ -67,8 +76,10 @@ function Portfolio() {
             <p>17.05.2009</p>
             <p>Daspalla,Vizag</p>
           </div>
+          </div>
         </div>
         <div className='portfoliochild2'>
+          <div>
         <div className='portfoliochild21'>
              <h3>Priya & Srinu </h3>
              <hr></hr>
@@ -76,6 +87,7 @@ function Portfolio() {
           <div className='portfoliochild22'>
             <p>07.08.2016</p>
             <p>NTR gardens,Vizag</p>
+          </div>
           </div>
         </div>
         </div>
@@ -83,6 +95,7 @@ function Portfolio() {
       <div className='portfoliobody1'>
       <div>
         <div className='portfoliochild1'>
+          <div>
           <div className='portfoliochild21'>
              <h3>Asha & Ragha</h3>
              <hr></hr>
@@ -91,8 +104,10 @@ function Portfolio() {
             <p>17.05.2009</p>
             <p>Daspalla,Vizag</p>
           </div>
+          </div>
         </div>
         <div className='portfoliochild2'>
+          <div>
         <div className='portfoliochild21'>
              <h3>Priya & Srinu </h3>
              <hr></hr>
@@ -100,11 +115,13 @@ function Portfolio() {
           <div className='portfoliochild22'>
             <p>07.08.2016</p>
             <p>NTR gardens,Vizag</p>
+          </div>
           </div>
         </div>
         </div>
         <div>
         <div className='portfoliochild2'>
+          <div>
         <div className='portfoliochild21'>
              <h3>Priya & Srinu </h3>
              <hr></hr>
@@ -113,8 +130,10 @@ function Portfolio() {
             <p>07.08.2016</p>
             <p>NTR gardens,Vizag</p>
           </div>
+          </div>
         </div>
         <div className='portfoliochild1'>
+          <div>
           <div className='portfoliochild21'>
              <h3>Asha & Ragha</h3>
              <hr></hr>
@@ -122,11 +141,13 @@ function Portfolio() {
           <div className='portfoliochild22'>
             <p>17.05.2009</p>
             <p>Daspalla,Vizag</p>
+          </div>
           </div>
         </div>
         </div>
         <div>
         <div className='portfoliochild1'>
+          <div>
           <div className='portfoliochild21'>
              <h3>Asha & Ragha</h3>
              <hr></hr>
@@ -135,8 +156,10 @@ function Portfolio() {
             <p>17.05.2009</p>
             <p>Daspalla,Vizag</p>
           </div>
+          </div>
         </div>
         <div className='portfoliochild2'>
+          <div>
         <div className='portfoliochild21'>
              <h3>Priya & Srinu </h3>
              <hr></hr>
@@ -144,6 +167,7 @@ function Portfolio() {
           <div className='portfoliochild22'>
             <p>07.08.2016</p>
             <p>NTR gardens,Vizag</p>
+          </div>
           </div>
         </div>
         </div>
