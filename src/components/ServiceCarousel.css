@@ -46,7 +46,6 @@
     color: white;
     position: relative;
     transition: 0.25s ease;
-    overflow: hidden;
   }
   .img:hover{
     transform: scale(1.1);

@@ -14,125 +14,156 @@ function Services() {
       </div>
       <div className='servicebody2'>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
         <div className='servicechild'>
+          <div>
           <h3>Wedding Planning</h3>
-          <hr></hr>
+          <hr className='underline'></hr>
           <div className='sericechild1'>
             <p>Choosing the perfect venue for your wedding can often feel like a daunting task. At Ria's Dreamz Odyssey,</p>
-            <a>Read more about Venues</a>
+            <a href='#'>Read more about Venues</a>
+          </div>
           </div>
         </div>
+        
         
       </div>
     </div>
