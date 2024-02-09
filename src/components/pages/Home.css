@@ -15,6 +15,7 @@
     font-weight: 200;
     font-size: 14px;
     margin: auto;
+    line-height: 24px;
 }
 .button{
     width: 123px;
@@ -49,6 +50,7 @@
     font-size: 32px;
     font-weight: 300;
     margin-right: 50px;
+    word-spacing: 20%;
 }
 .EPortfolio>h3{
     font-family:Tangerine;
@@ -61,6 +63,7 @@
     font-family: inter;
     font-weight: 200;
     margin-top: 50px;
+    line-height: 24px;
 }
 .CTestimonials{
     width: 100%;
@@ -69,15 +72,22 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    opacity: 0.6;
+    position: relative;
+}
+.CTestimonials>div{
+    width: 100%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    position: absolute;
+    background-color: rgba(128, 128, 128, 0.381);
 }
 .HTestimonials1{
     width: 1020px;
     height: auto;
     margin: auto;
+    
 }
 .HTestimonials1>p{
     opacity: 100%;
@@ -123,6 +133,8 @@
 .founderMatter>p{
     font-size: 14px;
     opacity: 70%;
+    line-height: 24px;
+    text-align: justify;
 }
 .founderMatter>h2{
     font-family: Tangerine;

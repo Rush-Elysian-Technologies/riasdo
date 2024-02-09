@@ -1,12 +1,12 @@
 import React from 'react';
 import './Services.css';
-import Header from '../Header';
+// import Header from '../Header';
 
 function Services() {
   return (
     <div>
       <div className='serviceHome backgroundImg'>
-      <Header/>
+      {/* <Header/> */}
       </div>
       <div className='servicebody1'>
         <h2>Our  Services</h2>

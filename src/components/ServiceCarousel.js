@@ -20,9 +20,6 @@ export default function ServiceCarousel() {
       <Swiper
         slidesPerView={3}
         spaceBetween={30}
-        pagination={{
-          type: "fraction",
-        }}
         navigation={true}
         modules={[Pagination, Navigation]}
         className="mySwiper"

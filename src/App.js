@@ -12,11 +12,12 @@ import Portfolio from './components/pages/Portfolio';
 import Testimonials from './components/pages/Testimonials';
 import Blog from './components/pages/Blog';
 import ContactUs from './components/pages/ContactUs';
+import Header1 from './components/Header1';
 
 function App() {
   return (
     <>
-    
+    <Header1/>
     <Routes>
        <Route path='/' element={<Home />} />
        <Route path='/aboutUs' element={<AboutUs />} />

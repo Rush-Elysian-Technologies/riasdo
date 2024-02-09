@@ -1,13 +1,13 @@
 import React from 'react'
 import './Portfolio.css';
-import Header from '../Header';
+// import Header from '../Header';
 import { Link } from 'react-router-dom';
 
 function Portfolio() {
   return (
     <div>
       <div className='portfolioHome backgroundImg'>
-      <Header/>
+      {/* <Header/> */}
       </div>
       <div className='portfoliobody'>
         <p>Our  Portfolio</p>

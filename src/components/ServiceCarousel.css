@@ -67,6 +67,7 @@
     width: 240px;
     border: 3px solid white;
     opacity: 100%;
+    margin-bottom: 40px;
   }
   .img1{
     background-image: url(../images/pexels-agung-pandit-wiguna-2788488.jpg);

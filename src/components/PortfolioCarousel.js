@@ -20,9 +20,7 @@ export default function PortfolioCarousel() {
       <Swiper
         slidesPerView={2}
         spaceBetween={30}
-        pagination={{
-          type: "fraction",
-        }}
+        
         navigation={true}
         modules={[Pagination, Navigation]}
         className="mySwiper"

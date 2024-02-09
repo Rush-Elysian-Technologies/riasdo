@@ -1,12 +1,14 @@
 import React from 'react';
 import './ContactUs.css';
-import Header from '../Header';
+// import Header from '../Header';
+// import Header1 from '../Header1'
 
 function ContactUs() {
   return (
     <div>
+      {/* <Header1/> */}
       <div className='contactHome backgroundImg'>
-      <Header/>
+      {/* <Header/> */}
       </div>
       <div className='contactbody1'>
         Contact Us

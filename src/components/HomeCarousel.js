@@ -28,43 +28,55 @@ export default function HomeCarousel() {
       >
         <SwiperSlide>
           <div className='background background1'>
+          <div className='parent-home'>
           <div class='home-para'>
           <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
           </div>
           </div>
         </SwiperSlide>
         <SwiperSlide>
             <div className='background background2'>
+            <div className='parent-home'>
             <div class='home-para'>
           <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
           </div>
             </div>
         </SwiperSlide>
         <SwiperSlide>
             <div className='background background3'>
+            <div className='parent-home'>
             <div class='home-para'>
           <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
           </div>
             </div>
         </SwiperSlide>
         <SwiperSlide>
             <div className='background background4'>
+            <div className='parent-home'>
             <div class='home-para'>
           <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
           </div>
             </div>
         </SwiperSlide>
         <SwiperSlide>
             <div className='background background5'>
+            <div className='parent-home'>
             <div class='home-para'>
           <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
           </div>
             </div>
         </SwiperSlide>
         <SwiperSlide>
             <div className='background background6'>
+            <div className='parent-home'>
             <div class='home-para'>
           <p>Two <b>souls</b> with but a single thought; two <b>hearts</b> that beat as <b>One</b>.</p>
+          </div>
           </div>
             </div>
         </SwiperSlide>

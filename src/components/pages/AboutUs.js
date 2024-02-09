@@ -1,12 +1,12 @@
 import React from 'react';
 import './AboutUs.css';
-import Header from '../Header';
+// import Header from '../Header';
 
 function AboutUs() {
   return (
     <div>
         <div className='aboutHome backgroundImg'>
-        <Header/>
+        {/* <Header/> */}
         </div>
         <div className='aboutbody'>
           <h2>Crafting Unforgettable Events in Visakhapatnam</h2>

@@ -1,13 +1,13 @@
 import React from 'react';
 import './Testimonials.css';
-import Header from '../Header';
+// import Header from '../Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Testimonials() {
   return (
     <div>
       <div className='testimonialHome backgroundImg'>
-        <Header/>
+        {/* <Header/> */}
       </div>
       <div className='testimonialbody1'> 
         <p> Testimonials <b>from our cherished clients</b></p>
