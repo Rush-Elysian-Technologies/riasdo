@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 
 function Footer() {
   return (
@@ -8,14 +8,11 @@ function Footer() {
       <div className='footer1'>
         <div className='matter0'>
           <div className='image7'></div>
-          <div class="footer-parent">
-          <FontAwesomeIcon icon={['fab', 'apple']} />
-      <FontAwesomeIcon icon={['fab', 'microsoft']} />
-      <FontAwesomeIcon icon={['fab', 'google']} />
-             <FontAwesomeIcon icon="fa-brands fa-square-facebook" />
-             <FontAwesomeIcon icon="fa-brands fa-square-twitter" />
-             <FontAwesomeIcon icon="fa-brands fa-square-instagram" />
-             <FontAwesomeIcon icon="fa-brands fa-linkedin" />
+          <div class="footer_socialLinks">
+                    <i class="fa-brands fa-facebook sundar"></i>
+                    <i class="fa-brands fa-instagram sundar"></i>
+                    <i class="fa-brands fa-twitter sundar"></i>
+                    <i class="fa-brands fa-youtube sundar"></i>
           </div>
         </div>
         <div className='matter1'>
