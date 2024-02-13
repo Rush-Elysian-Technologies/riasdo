@@ -11,6 +11,7 @@
 .aboutbody{
     max-width: 1020px;
     margin: 60px auto;
+    padding: 19px;
 }
 .aboutbody>h2{
     font-family: Tangerine;

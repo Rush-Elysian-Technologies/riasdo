@@ -1,5 +1,4 @@
 .width3{
-    width: 1020px;
     height: 279px;
 }
   .swiper {
@@ -16,6 +15,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: scroll;
   }
   .swiper-slide>p{
     line-height: 30px;

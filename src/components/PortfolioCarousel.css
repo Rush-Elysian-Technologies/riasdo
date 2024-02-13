@@ -6,6 +6,7 @@
   }
 
 .width1{
-    width: 670px;
+    max-width: 670px;
+    min-width: 350px;
     height: auto;
 }

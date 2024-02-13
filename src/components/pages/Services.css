@@ -19,12 +19,13 @@
     height: auto;
     font-size: 14;
     font-family: inter;
-    text-align: left;
+    text-align: justify;
+    padding: 0 20px;
 
 }
 .servicebody2{
     margin: 80px auto;
-    width: 1020px;
+    max-width: 1020px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;

@@ -9,7 +9,7 @@
     font-size: 64px;
 }
 .service>p{
-    width: 495px;
+    max-width: 495px;
     height: 85px;
     font-family: inter;
     font-weight: 200;
@@ -33,11 +33,11 @@
     color: #FFFFFF;
 }
 .PortfolioExplore{
-    width: 1020px;
+    max-width: 1020px;
     height: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     margin:80px auto;
 }
 .EPortfolio{
@@ -84,7 +84,7 @@
     background-color: rgba(128, 128, 128, 0.381);
 }
 .HTestimonials1{
-    width: 1020px;
+    width: 82%;
     height: auto;
     margin: auto;
     
@@ -107,7 +107,7 @@
     text-align: right;
 }
 .FounderDire{
-    width: 1020px;
+    max-width: 1020px;
     height: auto;
     margin: auto;
     display: flex;
@@ -117,8 +117,10 @@
     margin-top: 80px;
 }
 .FounderDire>div{
-    width: 490px;
-    height: 651px;
+    max-width: 490px;
+    min-width: 350px;
+    height: auto;
+    padding: 15px;
 }
 .founderMatter>h4{
     font-family: inter;
