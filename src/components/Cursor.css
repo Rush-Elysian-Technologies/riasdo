@@ -1,0 +1,21 @@
+.cursor {
+    position: fixed;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 0;
+    animation: cursorAnimation 0.3s infinite alternate;
+    background: radial-gradient(circle at 50%, #585858, #8c8b8b 40%, #ffffff 60%);
+    opacity: 60%;
+  }
+  
+  @keyframes cursorBackgroundAnimation {
+    0% {
+      background: radial-gradient(circle at 100%, #333, #333 50%, #eee 75%, #333 75%);
+    }
+    100% {
+      background: radial-gradient(circle at 100%, #333, #333 50%, #eee 75%, #333 75%);
+    }
+  }
+  

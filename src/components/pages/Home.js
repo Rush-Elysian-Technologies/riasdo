@@ -7,11 +7,13 @@ import PortfolioCarousel from "../PortfolioCarousel";
 import CusTestimonials from "../CusTestimonials";
 // import Header1 from '../Header1';
 import Marquee1 from "../Marquee";
+// import Cursor from '../Cursor';
 
 function Home() {
   return (
     <>
       {/* <Header1/> */}
+      {/* <Cursor/> */}
       <HomeCarousel />
       <div className="service">
         <h3>Our Services</h3>
